@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\25mayo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portafolio-mayo"
+	}
+}
